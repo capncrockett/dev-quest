@@ -1,0 +1,9 @@
+# .gitignore
+.env
+node_modules/
+bin/
+obj/
+.vscode/
+dist/
+*.sqlite
+*.DS_Store
