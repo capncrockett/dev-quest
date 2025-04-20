@@ -1,3 +1,5 @@
+## ⚠️ DO NOT DELETE FROM REPO
+
 # 🧠 AI Agent Memory Block: Learning to Code App
 
 ## 📘 Project Purpose
