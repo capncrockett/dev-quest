@@ -20,17 +20,22 @@ This repo is a personal journey through modern software development. It’s desi
 
 1. **Clone this repo.**
 
-2. **Seed your lessons directory:**
+2. **Make the lesson seeding script executable (first time only):**
+   ```bash
+   chmod +x ./seed/seed-lessons.sh
+   ```
+
+3. **Seed your lessons directory:**
    ```bash
    ./seed/seed-lessons.sh
    ```
    - You’ll be prompted to choose your frontend, backend, and database languages (or just press Enter to use the defaults: JavaScript/TypeScript, C#, PostgreSQL).
    - This will set up your `/lessons` directory with the basics and a starter project.
 
-3. **(Optional) Customize your learning agent:**
+4. **(Optional) Customize your learning agent:**
    - Open `seed/memory-block.md` and update it if you want to further personalize the AI’s coaching style, stack, or learning goals.
 
-4. **Start learning:**
+5. **Start learning:**
    - Explore the `/lessons` directory and open the “Basics” track to begin.
    - Let the AI agent guide you as you build and learn.
 
