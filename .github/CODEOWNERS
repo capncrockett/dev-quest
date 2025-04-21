@@ -1,0 +1,3 @@
+# Give ownership of main to a specific user
+/main  @capncrockett
+/develop @capncrockett
